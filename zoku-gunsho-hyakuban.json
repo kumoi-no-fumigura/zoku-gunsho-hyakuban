@@ -1,11 +1,16 @@
 {
- "work": "百番歌合",
+ "work": "百番歌合（続群書類従本）",
  "work_id": "zoku-gunsho-hyakuban",
  "repo": "kumoi-no-fumigura/zoku-gunsho-hyakuban",
  "yomi": "ひゃくばんうたあわせ",
  "category": "歌合",
  "kind": "prose",
- "description": null,
+ "description": {
+  "kind": "自歌合（100番）",
+  "era": "享禄3年（1530）判",
+  "author": "素純（自撰）／判者 三条西実隆",
+  "desc": "東素純が自詠200首を100番に番え、三条西実隆（尭空）に判を請うた自歌合。末尾に実隆の判詞の跋があり、享禄3年3月23日に到来したと記す。"
+ },
  "editions": [
   {
    "pid": "nao-729562",
@@ -3063,7 +3068,7 @@
   "poems": 185,
   "yaku": 0,
   "editions": 1,
-  "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:01:47+09:00"
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T09:05:14+09:00"
  }
 }
